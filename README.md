@@ -23,5 +23,8 @@ npm run unit
 # run all tests
 npm test
 ```
-
+### Install Vue github page
+``` bash
+read more in here https://www.npmjs.com/package/vue-gh-pages
+```
 For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
